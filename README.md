@@ -66,10 +66,6 @@ python sol_inspect.py <WALLET_ADDRESS> --no-tokens --no-txs
 }
 ```
 
-## Testing
-```bash
-pytest
-```
 
 ## Exit codes
 - `0` success
