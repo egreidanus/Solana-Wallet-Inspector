@@ -82,8 +82,8 @@ This project is distributed under the MIT license.
 ## Support Me
 Any donation will make me happy and will keep this project online :)
 
-SOL: DMWGUXuEEaVY4xT4jcEZPace76J2DYV4FXPBmk9411sc
+SOL: `DMWGUXuEEaVY4xT4jcEZPace76J2DYV4FXPBmk9411sc`
 
-BTC: bc1qtj5c7mg9c5mmg0mv84reh7emwl5j9scqnwzfak
+BTC: `bc1qtj5c7mg9c5mmg0mv84reh7emwl5j9scqnwzfak`
 
-ETH: 0xe547e12225a52A6cc9A4a4ea6a352fFCAF38ae4C
+ETH: `0xe547e12225a52A6cc9A4a4ea6a352fFCAF38ae4C`
